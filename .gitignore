@@ -1,0 +1,31 @@
+# Gradle files
+.gradle/
+build/
+*.gradle.lock
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+*~
+
+# Android
+local.properties
+/captures
+.externalNativeBuild
+.cxx/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+*.apk
+*.aab
+*.app
+
+# Runtime
+.env
+secrets.properties
